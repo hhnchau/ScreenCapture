@@ -18,6 +18,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+<!--        https://github.com/saki4510t/ScreenRecordingSample.git-->
+
+<!--        <service-->
+<!--            android:name="kingpesdev.firebaseapp.screencapture.videorecord.service.ScreenRecorderService"-->
+<!--            android:enabled="true"-->
+<!--            android:exported="false" >-->
+<!--        </service>-->
+
     </application>
 
 </manifest>
